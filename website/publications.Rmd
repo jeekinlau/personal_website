@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+## Referreed Articles
+
+[Rose Rosette Disease Resistance Loci Detected in Two Interconnected Tetraploid Garden Rose Populations](https://www.frontiersin.org/articles/10.3389/fpls.2022.916231/full)\
+[Identification of QTLs for Reduced Susceptibility to Rose Rosette Disease in Diploid Roses](https://www.mdpi.com/2076-0817/11/6/660)\
+[VIEWpoly: a visualization tool to integrate and explore results of polyploid genetic analysis](https://joss.theoj.org/papers/10.21105/joss.04242)\
+[Challenges of Breeding Rose Rosette--resistant Roses](https://doi-org.srv-proxy1.library.tamu.edu/10.21273/HORTSCI12553-17)\
+[Biologic Formulations but Not an Interrow Living Rye Ground Cover Reduced Incidence of Tomato Spotted Wilt Virus in Tomato](https://doi.org/10.1080/19315260.2015.1051262)
+
+## Non-Referreed Articles
+
+[Field Book: use in phenotypic data collection in rose breeding](https://doi.org/10.17660/ActaHortic.2019.1232.8)\
+[Heritability of flower size and heat stress in diploid roses](https://doi.org/10.17660/ActaHortic.2019.1232.9)\
+[Resistance of garden roses to cercospora leaf spot](https://doi.org/10.17660/ActaHortic.2019.1232.32)
+
+## Book Chapters

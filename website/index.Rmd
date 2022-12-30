@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+<img src="figures/headshot.jpg" style="width:20%; float:left; padding:15px"  >         
+
+# About Me
+
+
+My name is Jeekin Lau and I am a post-doctoral researcher at Texas A&M University. My main areas of interest are genomics, genetics, phenotyping, machine learning, image recognition.
+       
+My most recent job assignments include comparing polyploid genetics software with empirical datasets in autotetraploid rose. By training I am a field based researcher with a strong background in setting up field based replicated trials for both pesticide efficacy trials and for traditional field based plant breeding. However in the past 2-3 years, I have pivoted towards bioinformatics and statistical modeling for phenotyping data. As genetic studies are limited many times by the quality of phenotypic data, the ability to accurately measure plant expression of genetics 
+  
+  
+(THIS WEBSITE STILL UNDER CONSTRUCTION)
