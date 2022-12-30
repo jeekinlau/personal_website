@@ -3,7 +3,7 @@ navbar:
   title: ""
   left:
     - text: "Home"
-      href: index.html
+      href: home.html
     - text: "Education"
       href: education.html
     - text: "Work Experience"
